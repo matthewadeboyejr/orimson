@@ -4,7 +4,7 @@ import BookingBtn from "./bookingappointment/BookingBtn";
 const Header = () => {
   return (
     <header className="w-full mb-24">
-      <h1 className=" text-[#273E78] text-6xl md:text-[140px] xl:text-[190px] font-semibold  md:font-medium  w-full text-center leading-tight sm:leading-snug md:leading-normal">
+      <h1 className=" text-[#273E78] text-4xl md:text-[140px] xl:text-[190px] font-semibold  md:font-medium  w-full text-center leading-tight sm:leading-snug md:leading-normal">
         Orimson Ltd.
       </h1>
 

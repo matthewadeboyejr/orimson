@@ -51,7 +51,7 @@ const OurServices = () => {
   return (
     <section className="mb-24">
       <div className="text-center mb-12">
-        <h2 className="text-[#273E78] text-6xl md:text-[140px] xl:text-[180px] font-semibold md:font-medium mb-3 w-full text-center leading-tight sm:leading-snug md:leading-normal">
+        <h2 className="text-[#273E78] text-4xl md:text-[140px] xl:text-[180px] font-semibold md:font-medium mb-3 w-full text-center leading-tight sm:leading-snug md:leading-normal">
           Our Services
         </h2>
       </div>
