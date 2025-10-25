@@ -19,7 +19,7 @@ const Header = () => {
               tax advisory, and research & development consulting.
             </p>
             <div className="w-full  flex">
-              <BookingBtn title="Get in Touch" action="/contact" />
+              <BookingBtn title="Get in Touch" />
             </div>
           </div>
         </div>
