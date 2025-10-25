@@ -17,7 +17,7 @@ const ContactHome = () => {
               possible service.
             </p>
             <div className="w-full  flex justify-center">
-              <BookingBtn title="Contact Us" action="/contact" />
+              <BookingBtn title="Contact Us"  />
             </div>
           </div>
         </div>
