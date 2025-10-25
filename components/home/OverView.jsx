@@ -28,7 +28,7 @@ const OverView = () => {
             ever-evolving financial landscape
           </p>
           <div className="flex justify-center md:justify-start">
-            <BookingBtn />
+            <BookingBtn title="Learn More" action="/about"/>
           </div>
         </div>
       </div>
