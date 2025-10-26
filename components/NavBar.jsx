@@ -45,15 +45,17 @@ const NavBar = () => {
       {/* Mobile Navigation */}
       <div className="md:hidden flex items-center justify-between p-4 bg-white rounded-full">
         <div className="relative w-full max-w-[50px] ">
-          <Image
-            className="w-7 h-7"
-            src="/logopng.png"
-            alt="Primary Logo"
-            width={100}
-            height={100}
-            priority
-            layout="responsive"
-          />
+          <Link href="/" className="relative w-full max-w-[70px] ">
+            <Image
+              className="w-7 h-7"
+              src="/logopng.png"
+              alt="Primary Logo"
+              width={100}
+              height={100}
+              priority
+              layout="responsive"
+            />
+          </Link>
         </div>
         <button
           onClick={() => setIsOpen(!isOpen)}
