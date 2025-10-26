@@ -1,6 +1,6 @@
 "use client";
-import React, { useRef, useState } from "react";
-import { FaAt, FaFax, FaLocationArrow, FaPhone } from "react-icons/fa";
+import React from "react";
+import { FaAt, FaLocationArrow, FaPhone } from "react-icons/fa";
 import Map from "@/components/home/Map";
 
 const ContactUs = () => {
